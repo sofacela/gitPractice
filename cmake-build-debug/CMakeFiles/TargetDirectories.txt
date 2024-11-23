@@ -1,0 +1,3 @@
+C:/Users/sofiy/OneDrive/CLionProjects/gitPractice/cmake-build-debug/CMakeFiles/gitPractice.dir
+C:/Users/sofiy/OneDrive/CLionProjects/gitPractice/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sofiy/OneDrive/CLionProjects/gitPractice/cmake-build-debug/CMakeFiles/rebuild_cache.dir
